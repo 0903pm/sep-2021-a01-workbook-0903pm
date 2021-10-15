@@ -6146,11 +6146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lldb2\\OneDrive\\Desktop\\NAIT\\NAIT fall 2021 (sem 1) in class work\\DMIT2018\\VS Code\\ChinookApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\lldb2\\OneDrive\\Desktop\\NAIT\\NAIT fall 2021 (sem 1) in class work\\DMIT2018\\VS Code\\ChinookApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\lldb2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lldb2\\OneDrive\\Desktop\\NAIT\\NAIT fall 2021 (sem 1) in class work\\DMIT2018\\VS Code\\ChinookApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lldb2\\AppData\\Roaming\\NuGet\\NuGet.Config",
