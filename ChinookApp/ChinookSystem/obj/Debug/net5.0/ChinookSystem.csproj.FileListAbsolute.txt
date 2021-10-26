@@ -1,0 +1,12 @@
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\bin\Debug\net5.0\ChinookSystem.deps.json
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\bin\Debug\net5.0\ChinookSystem.dll
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\bin\Debug\net5.0\ref\ChinookSystem.dll
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\bin\Debug\net5.0\ChinookSystem.pdb
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.csproj.AssemblyReference.cache
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.AssemblyInfoInputs.cache
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.AssemblyInfo.cs
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.csproj.CoreCompileInputs.cache
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.dll
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ref\ChinookSystem.dll
+C:\Users\lldb2\OneDrive\Documents\GitHub\sep-2021-a01-workbook-0903pm\ChinookApp\ChinookSystem\obj\Debug\net5.0\ChinookSystem.pdb
