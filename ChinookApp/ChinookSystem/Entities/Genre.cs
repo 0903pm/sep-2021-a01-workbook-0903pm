@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ChinookSystem.Entities
 {
-    internal partial class Genre
+    public partial class Genre
     {
         public Genre()
         {

@@ -4,14 +4,14 @@
     "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\ChinookSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
-        "projectName": "WebApp",
-        "projectPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\ChinookSystem.csproj",
+        "projectName": "ChinookSystem",
+        "projectPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\ChinookSystem.csproj",
         "packagesPath": "C:\\Users\\lldb2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lldb2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,25 +40,91 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\lldb2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lldb2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\ChinookSystem.csproj": {
+                "projectPath": "C:\\Users\\lldb2\\OneDrive\\Documents\\GitHub\\sep-2021-a01-workbook-0903pm\\ChinookApp\\ChinookSystem\\ChinookSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[5.0.11, )"
             }
           },
           "imports": [

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ChinookSystem.Entities
 {
     [Table("DbVersion")]
-    internal partial class DbVersion
+    public partial class DbVersion
     {
         [Key]
         [Column("id")]
